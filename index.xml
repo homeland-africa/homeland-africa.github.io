@@ -21,6 +21,33 @@
     </item>
     
     <item>
+      <title>Helena</title>
+      <link>/post/hele/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intersection-1</title>
+      <link>/post/hele/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>/post/hele/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HELE</title>
       <link>/post/hele/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
@@ -73,6 +100,16 @@ For other options, put these in the front matter: description: &amp;ldquo;A desc
       
       <guid>/posts/1.-markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>/posts/2.-placeholder-text/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2.-placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>

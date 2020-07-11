@@ -1,0 +1,20 @@
+---
+title: HELE
+author: IPEG
+date: '2020-07-10'
+slug: asdf
+categories: []
+tags: []
+image: /image/blog-pic.jpg
+---
+
+Article goes here. 
+
+For other options, put these in the front matter:
+    description:            "A description" other than the blog intro
+    draft: true             to not publish article yet
+    showDate: true/false    to enable/disable showing dates
+    math: true              to enable showing equations (katex)
+    chordsheet: true        to add chordsheet styelsheet
+    lastmod: 2020-4-11      after modifying an article, set lastmod to let google know
+                            that you have updated the article (SEO)

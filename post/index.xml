@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Historial Land Conflict</title>
+    <link>/post/</link>
+    <description>Recent content in Post on Historial Land Conflict</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HELE</title>
+      <link>/post/hele/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description>Article goes here.
+For other options, put these in the front matter: description: &amp;ldquo;A description&amp;rdquo; other than the blog intro draft: true to not publish article yet showDate: true/false to enable/disable showing dates math: true to enable showing equations (katex) chordsheet: true to add chordsheet styelsheet lastmod: 2020-4-11 after modifying an article, set lastmod to let google know that you have updated the article (SEO)</description>
+    </item>
+    
+    <item>
+      <title>HELE2</title>
+      <link>/post/hele/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description>[1] &amp;ldquo;2020-07-10&amp;rdquo; [1] &amp;ldquo;2020-07-10&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>HELE2</title>
+      <link>/post/hele/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description> title: HELE2 author: IPEG date: 2020-07-10 slug: hele categories: [] tags: [] image: /image/blog-pic.jpg </description>
+    </item>
+    
+    <item>
+      <title>HELE2</title>
+      <link>/post/hele/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HELE2</title>
+      <link>/post/hele/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:</description>
+    </item>
+    
+  </channel>
+</rss>

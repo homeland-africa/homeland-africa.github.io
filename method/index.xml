@@ -6,36 +6,36 @@
     <description>Recent content in Method on Historial Land Conflict</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/method/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cleaning Procedure</title>
-      <link>/method/3.-cleaning-procedure/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/method/3.-cleaning-procedure/</guid>
-      <description>As both Murdock and GREG geo-databases were manually recovered from historical maps, many measurement errors might exist due to the geo-referencing process. For instance: (i) polygons borders could be miss-located due to manual process, (ii) There must be complex geometries that cannot be intersect with other polygons, among others.</description>
-    </item>
-    
-    <item>
-      <title>General Overview</title>
+      <title>1. General Overview</title>
       <link>/method/1.-general-overview/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/method/1.-general-overview/</guid>
       <description>The goal is to establish which African tribal groups have moved/changed since 1800. Pre-colonial tribe names are determined by the Murdock Map of Ethnic Boundaries (1956), which refers to the location of the groups in 1800. Current tribe names come from the GREG data set (2010), which refers to the location of the groups in 1960.</description>
     </item>
     
     <item>
-      <title>Matching Procedure</title>
+      <title>2. Matching Procedure</title>
       <link>/method/2.-matching-procedure/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/method/2.-matching-procedure/</guid>
       <description>For this classification we used as the main source the classification of tribes provided in Murdock (1969). In Murdock, each tribe is associated to a tribe number y within a chapter x so that its code is x:y. In most cases, the chapter is equivalent to a culture family encompassing a number of tribes.</description>
+    </item>
+    
+    <item>
+      <title>3. Cleaning Procedure</title>
+      <link>/method/3.-cleaning-procedure/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/method/3.-cleaning-procedure/</guid>
+      <description>As both Murdock and GREG geo-databases were manually recovered from historical maps, many measurement errors might exist due to the geo-referencing process. For instance: (i) polygons borders could be miss-located due to manual process, (ii) There must be complex geometries that cannot be intersect with other polygons, among others.</description>
     </item>
     
   </channel>
